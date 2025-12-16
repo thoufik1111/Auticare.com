@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AutiCare - Adaptive Autism Support Platform
 
 A comprehensive, role-based assessment and support platform for autism care, featuring adaptive UI, personalized scheduling, and evidence-based scoring.
@@ -241,3 +242,6 @@ For questions about autism resources and professional support:
 ---
 
 **Built with ❤️ for the autism community. Always consult qualified healthcare professionals for medical advice.**
+=======
+# Auticare.com
+>>>>>>> e1f95b1c40e6fc6ba0912b5f61305cce845095db
