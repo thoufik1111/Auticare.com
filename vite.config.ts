@@ -5,7 +5,12 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/Auticare.com/",   // ✅ REQUIRED for GitHub Pages
+  base: "/Auticare.com/", // GitHub Pages repo name (case-sensitive)
+
+  build: {
+    outDir: "docs",       // 👈 THIS enables /docs deployment
+    emptyOutDir: true,
+  },
 
   server: {
     host: "::",
